@@ -24,7 +24,6 @@ npm、express、JavaScript
 - 汉化官方地图（完美汉化）
 - 支持离线使用
 ````
->下载功能请查看:[map-image-download](map-image-download/README.md)
 
 ## 开发者说明
 

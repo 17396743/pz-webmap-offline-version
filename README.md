@@ -26,6 +26,8 @@ npm、express、JavaScript
 ````
 
 ##  软件预览图
-![QQ截图20221128020221](https://user-images.githubusercontent.com/70384877/204153058-05971e70-3c8f-43d2-a807-0d9076fefa82.png)
+
+![QQ截图20221128032018](https://user-images.githubusercontent.com/70384877/204155501-679e2e5b-2ed2-4545-891a-c37664890d2c.png)
+
 
 

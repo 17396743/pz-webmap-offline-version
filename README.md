@@ -13,7 +13,6 @@
 # 使用技术:
 ````
 npm、express、JavaScript 
-
 ````
 # 使用教程：
 ````
@@ -22,13 +21,13 @@ npm、express、JavaScript
 
 ## 项目功能
 ````
-- 汉化官方在线地图（完美汉化）
+- 汉化官方地图（完美汉化）
 - 支持离线使用
-
 ````
 >下载功能请查看:[map-image-download](map-image-download/README.md)
 
 ## 开发者说明
+
 [说明文档](DEV_README.md)
 
 ##  软件预览图

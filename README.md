@@ -25,10 +25,6 @@ npm、express、JavaScript
 - 支持离线使用
 ````
 
-## 开发者说明
-
-[说明文档](DEV_README.md)
-
 ##  软件预览图
 ![QQ截图20221128020221](https://user-images.githubusercontent.com/70384877/204153058-05971e70-3c8f-43d2-a807-0d9076fefa82.png)
 
